@@ -9,3 +9,12 @@ marquee{
     font-size: 20px;
     padding: 10px;
 }
+.fontsize{
+    font-size: 20px;
+}
+.advice{
+    font-size: 15px;
+}
+article{
+    background-color: thistle;
+}
